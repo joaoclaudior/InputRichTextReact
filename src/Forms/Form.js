@@ -16,7 +16,7 @@ export class FormExemple extends Component {
     render() {
         return (
             <form onSubmit={this.handleSubmit}>
-                <InputRichText onChange={this.printValues}/>
+                <InputRichText onChange={this.printValues} width="100%" heigth="300px"/>
                 <button type="submit">Submit</button>
             </form>
         )
