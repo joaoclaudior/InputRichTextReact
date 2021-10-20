@@ -7,4 +7,4 @@ Componente InputRichText
 <li>redux-form - https://redux-form.com/6.6.3/</li>
 </ul>
 
-<img src="http://imgroots.com/image/image-1.ibWT5"/>
+<img src="http://imgroots.com/images/2021/10/20/image-1.png"/>
